@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="lenovo" name="testcases.YahooNews" tests="2" failures="0" timestamp="28 Jun 2016 21:56:15 GMT" time="0.003" errors="0">
+  <testcase name="getNewsLink" time="0.0" classname="testcases.YahooNews"/>
+  <testcase name="readNewsLink" time="0.001" classname="testcases.YahooNews"/>
+</testsuite>

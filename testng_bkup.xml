@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="News Suite">
+
+	<listeners>
+	    <listener class-name="listeners.CustomListener" />
+	</listeners>
+	
+	<test name="Listener Test">
+	    <classes>
+	        <class name="testcases.ListenerTest" ></class>  
+	    </classes>
+	</test>
+	
+</suite>

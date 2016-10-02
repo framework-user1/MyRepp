@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="lenovo" name="reportSuiteB.TestB1" tests="3" failures="0" timestamp="1 Oct 2016 18:19:22 GMT" time="0.003" errors="0">
+  <testcase name="testB1_1" time="0.001" classname="reportSuiteB.TestB1"/>
+  <testcase name="testB1_2" time="0.001" classname="reportSuiteB.TestB1"/>
+  <testcase name="testB1_3" time="0.001" classname="reportSuiteB.TestB1"/>
+</testsuite>

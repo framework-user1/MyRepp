@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="lenovo" name="reportSuiteA.TestA1" tests="3" failures="1" timestamp="1 Oct 2016 18:19:22 GMT" time="0.02" errors="0">
+  <testcase name="testA1_1" time="0.007" classname="reportSuiteA.TestA1"/>
+  <testcase name="testA1_2" time="0.002" classname="reportSuiteA.TestA1">
+    <failure type="java.lang.AssertionError" message="Faliure Message">
+      <![CDATA[java.lang.AssertionError: Faliure Message
+	at reportSuiteA.TestA1.testA1_2(TestA1.java:17)
+... Removed 26 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="testA1_3" time="0.0" classname="reportSuiteA.TestA1">
+    <skipped/>
+  </testcase>
+</testsuite>

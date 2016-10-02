@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [News Suite]">
+  <listeners>
+    <listener class-name="listeners.CustomListener"/>
+  </listeners>
+  <test name="Listener Test(failed)">
+    <classes>
+      <class name="testcases.ListenerTest">
+        <methods>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- testcases.ListenerTest -->
+    </classes>
+  </test> <!-- Listener Test(failed) -->
+</suite> <!-- Failed suite [News Suite] -->

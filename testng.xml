@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Master Suite">
+
+	<listeners>
+	    <listener class-name="customreports.CustomReporter" />
+	</listeners>
+	
+	<suite-files>
+		<suite-file path = "./suiteA.xml"/>
+	    <suite-file path = "./suiteB.xml"/>
+	</suite-files>
+	
+</suite>
