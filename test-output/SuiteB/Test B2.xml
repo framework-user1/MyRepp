@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="lenovo" name="reportSuiteB.TestB2" tests="3" failures="1" timestamp="1 Oct 2016 18:19:22 GMT" time="0.002" errors="0">
-  <testcase name="testB2_1" time="0.0" classname="reportSuiteB.TestB2"/>
+<testsuite hostname="lenovo" name="reportSuiteB.TestB2" tests="3" failures="1" timestamp="2 Oct 2016 16:06:16 GMT" time="0.004" errors="0">
+  <testcase name="testB2_1" time="0.001" classname="reportSuiteB.TestB2"/>
   <testcase name="testB2_2" time="0.001" classname="reportSuiteB.TestB2">
     <skipped/>
   </testcase>

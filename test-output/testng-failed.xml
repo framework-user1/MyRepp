@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [SuiteA]" parallel="false">
+<suite name="Failed suite [SuiteB]" parallel="false">
   <listeners>
     <listener class-name="customreports.CustomReporter"/>
   </listeners>
-  <test name="Test A1(failed)" preserve-order="false">
+  <test name="Test B2(failed)" preserve-order="false">
     <classes>
-      <class name="reportSuiteA.TestA1">
+      <class name="reportSuiteB.TestB2">
         <methods>
-          <include name="testA1_3"/>
-          <include name="testA1_2"/>
+          <include name="testB2_2"/>
+          <include name="testB2_3"/>
         </methods>
       </class>
     </classes>
